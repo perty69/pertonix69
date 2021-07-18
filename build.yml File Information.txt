@@ -1,0 +1,30 @@
+File Information
+----------------
+Name: build.yml
+File type: YAML Document (.yml)
+MIME Type: Unknown
+Opens with: File Viewer Plus 4
+Size: 4.32 KB (4,424 bytes)
+Location: C:\Users\curtis\OneDrive\web3.js-1.x\web3.js-1.x\.github\workflows\
+Created: May 21, 2021 7:40 AM
+Modified: June 20, 2021 4:38 PM
+Accessed: June 20, 2021 4:39 PM
+Read-only: No
+Hidden: No
+System: No
+MD5: a941f4afebea6026ec93ef6fd1c1df1e
+
+File Metadata
+----------------
+MIME Encoding: us-ascii
+Newlines: Unix LF
+Line Count: 149
+Word Count: 316
+
+FileInfo.com Information
+.YML - 1 file type found
+----------------
+Type: YAML Document
+Category: Developer
+Popularity: ★★★★☆
+Developer: N/a
